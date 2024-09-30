@@ -21,3 +21,6 @@ Helix Robot is an open-source autonomous robot project designed for personal use
 - Enhance the web interface for better user experience.
 - Expand the project with additional sensors and capabilities for more complex tasks.
 
+- Project made by n41ilexz
+- Readme documentation created using ChatGPT
+
